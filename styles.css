@@ -1,0 +1,61 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.container-fluid {
+  color: white;
+}
+
+.top-container {
+  height: 600px;
+}
+
+.heading {
+  margin-top: 150px;
+}
+
+.top-img {
+  margin-top: 100px;
+  border-radius: 25px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.container-fluid {
+  background-color: #28df99;
+  overflow: hidden;
+}
+
+button {
+  width: 300px;
+  border-radius: 25px;
+  height: 50px;
+  margin-top: 30px;
+  border: none;
+}
+
+.top-heading {
+  font-size: 4rem;
+  margin-top: 100px;
+}
+
+.features {
+  font-size: 6rem;
+  margin-bottom: 25px;
+  color: #28df99;
+}
+
+p {
+  color: #686d76;
+}
+
+h2 {
+  font-size: 3rem;
+  margin: 50px;
+}
+
+.navbar {
+  opacity: 0.8;
+}
