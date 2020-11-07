@@ -2,12 +2,9 @@
   font-family: "Roboto", sans-serif;
 }
 
-.container-fluid {
-  color: white;
-}
-
-.top-container {
+.top-left-div {
   height: 600px;
+  overflow: hidden;
 }
 
 .heading {
@@ -25,14 +22,15 @@
 
 .container-fluid {
   background-color: #28df99;
-  overflow: hidden;
+  color: white;
 }
 
-button {
+.SignUp {
   width: 300px;
   border-radius: 25px;
   height: 50px;
   margin-top: 30px;
+  margin-bottom: 100px;
   border: none;
 }
 
